@@ -5,6 +5,8 @@
   # I created a 'mad_libs()' function that is basically the main function. 
 
 # CODE
+
+
 import random 
 
 def get_user_input(prompt):
